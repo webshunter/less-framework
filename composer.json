@@ -1,0 +1,16 @@
+{
+    "name": "www-data/absensi",
+    "autoload": {
+        "psr-4": {
+            "WwwData\\Absensi\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "gugus"
+        }
+    ],
+    "require": {
+        "jenssegers/blade": "^1.4"
+    }
+}

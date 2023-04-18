@@ -1,0 +1,12 @@
+body{
+    background: #ddd;
+}
+
+.mt-100{
+    margin-top:100px;
+}
+
+.text-dark-1{
+    color: #aad;
+    font-size: 12pt;
+}
